@@ -1,5 +1,3 @@
-<h3>// dreadew</h3>
-
 <h5>// tech stack:</h5>
 <ul>
   <li>
