@@ -1,6 +1,6 @@
-<h1>// dreadew</h1>
+<h3>// dreadew</h3>
 
-<h3>// tech stack:</h3>
+<h5>// tech stack:</h5>
 <ul>
   <li>
     p.l.: python, javascript (typescript)
@@ -16,7 +16,7 @@
   </li>
 </ul>
 
-<h3>// contact info</h3>
+<h5>// contact info</h5>
 <ul>
   <li>email: arthur833@icloud.com</li>
   <li>tg: @dreadeww</li>
