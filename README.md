@@ -1,10 +1,10 @@
 <h5>// tech stack:</h5>
 <ul>
   <li>
-    p.l.: python, javascript (typescript)
+    programming languages.: python, javascript (typescript), go, c++
   </li>
   <li>
-    frameworks: django, fastapi, aiogram, next.js, react.js, nest.js
+    frameworks: next.js, react.js, nest.js, fastapi
   </li>
   <li>
     orm: prisma, sqlalchemy
