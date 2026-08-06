@@ -1,6 +1,6 @@
 [Русская версия](README.md)
 
-# Hi, I'm Arthur
+# Hi, I'm Artur
 
 ## Backend-engineer
 
